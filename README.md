@@ -1,4 +1,8 @@
-### Hi there 👋
+###professional dumbass!
+
+I like scripting on roblox
+
+i sometimes publish what i script here so enjoy
 
 <!--
 **coltonwach/coltonwach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
