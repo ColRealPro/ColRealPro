@@ -6,9 +6,9 @@ Most of my stuff is private, however I will sometimes open source modules I crea
 
 ## Stats
 
-![ColRealPro's github stats](https://github-readme-stats.vercel.app/api?username=ColRealPro&count_private=true&show_icons=true&theme=dark)
+![ColRealPro's github stats](https://github-readme-stats-lyart-eight-90.vercel.app/api?username=ColRealPro&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColRealPro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lyart-eight-90.vercel.app/api/top-langs/?username=ColRealPro&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **coltonwach/coltonwach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
