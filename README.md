@@ -1,25 +1,11 @@
 ## professional dumbass!
 
-I am a programmer who mainly works with Roblox. I also like to do backend development, or create algorithms
+I am a 15 year old programmer who mainly works with Roblox. I also like to do backend development or create algorithms
 
-Most of my stuff is private, however I will sometimes open source modules I create
+Most of my stuff is private, however, I will sometimes open source modules I create
 
 ## Stats
 
 ![ColRealPro's github stats](https://github-readme-stats-lyart-eight-90.vercel.app/api?username=ColRealPro&count_private=true&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats-lyart-eight-90.vercel.app/api/top-langs/?username=ColRealPro&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**coltonwach/coltonwach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
