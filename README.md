@@ -1,6 +1,6 @@
 ## professional dumbass!
 
-I am a 16 year old programmer who mainly works with Roblox. I also like to do backend development sometimes
+I am a 17 year old programmer who mainly works with Roblox. I also like to do backend development sometimes
 
 Most of my stuff is private, however, I will sometimes open source modules I create
 
